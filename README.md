@@ -1,4 +1,4 @@
-<h2 align="left">Hello Guys! My name is Alif Agsakli Haresta and I'm an UI / UX and Frontend Developer, from Yogyakarta, Central Java, Indonesia</h2>
+<h2 align="left">Hello Guys! My name is Alif Agsakli Haresta and I'm a Junior Software Engineer, from Yogyakarta, Central Java, Indonesia</h2>
 
 ###
 
